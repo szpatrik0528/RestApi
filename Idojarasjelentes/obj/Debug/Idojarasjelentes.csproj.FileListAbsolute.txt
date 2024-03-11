@@ -1,0 +1,2 @@
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Idojarasjelentes\obj\Debug\Idojarasjelentes.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Idojarasjelentes\obj\Debug\Idojarasjelentes.csproj.CoreCompileInputs.cache

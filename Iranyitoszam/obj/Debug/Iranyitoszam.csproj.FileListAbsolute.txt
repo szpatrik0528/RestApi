@@ -1,0 +1,7 @@
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\bin\Debug\Iranyitoszam.exe.config
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\bin\Debug\Iranyitoszam.exe
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\bin\Debug\Iranyitoszam.pdb
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\obj\Debug\Iranyitoszam.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\obj\Debug\Iranyitoszam.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\obj\Debug\Iranyitoszam.exe
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\Iranyitoszam\obj\Debug\Iranyitoszam.pdb
